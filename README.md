@@ -34,6 +34,21 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
+![IMG-20251225-WA0014](https://github.com/user-attachments/assets/5398d8a0-359a-4134-85b7-2033c4b3bb86)
+![IMG-20251225-WA0015](https://github.com/user-attachments/assets/16b46254-e901-40d4-97a2-f8912750dd98)
+
+**TABULAR COLUMN:**
+
+![IMG-20251225-WA0016](https://github.com/user-attachments/assets/eea5af63-cd6a-47bd-a59b-f4f59ca32c1d)
+
+
+**CALCULATION:**
+
+![IMG-20251225-WA0017](https://github.com/user-attachments/assets/2a6009ae-3974-49cc-837d-75f1917ad144)
+![IMG-20251225-WA0018](https://github.com/user-attachments/assets/0ce16d88-b6d6-403a-89aa-c35255866936)
+
+
+
 To measure IL
 
 <img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
